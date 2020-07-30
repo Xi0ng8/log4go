@@ -22,3 +22,7 @@ Refer to examples
 3. more of rules of log rotation
 4. custom the format of log
 
+Just modify :
+custom the format of log
+
+for request of some project log file do not need [INFO] tag,do not need line number
